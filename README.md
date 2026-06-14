@@ -16,6 +16,28 @@
 
 ---
 
+## 🛠️ Current Skills
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+## 🧑‍💻 About Me
+
+- 🎓 High school student with a serious passion for technology
+- 🔧 Currently diving deep into **Backend Development**
+- 🐧 Linux enthusiast — the terminal is my comfort zone
+- 🤖 Experimenting with automation workflows using **n8n**
+- 📚 Always learning something new, every single day
+- 🌎 Based in **Brazil** | Intermediate English speaker
+
 ## 💡 Interests
 
 I'm really into backend systems — APIs, servers, databases, how everything connects behind the scenes. Linux is basically my home at this point. I also love automating stuff with n8n and scripts, making boring tasks just disappear. Oh, and I casually find cybersecurity fascinating — not planning to go into it professionally, I just think it's super cool to understand how things can be broken and protected.
