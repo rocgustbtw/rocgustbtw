@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Tux waving GIF -->
-<img src="https://media.giphy.com/media/xT9IgG50Lg7russbDa/giphy.gif" width="120" alt="Tux the Linux Penguin"/>
+<img src="https://tenor.com/pt-BR/view/mr-free-super-tux-alphacron-fly-gif-14907503"/>
 
 # Hey there, I'm Gustavo 👋
 
