@@ -50,7 +50,7 @@ I'm really into backend systems — APIs, servers, databases, how everything con
 
 ## 🚀 Learning Roadmap
 
-```
+
 ✅ HTML & CSS          — Done
 ✅ Linux basics        — Done
 🔄 n8n automation      — In progress
@@ -63,15 +63,9 @@ I'm really into backend systems — APIs, servers, databases, how everything con
 
 ---
 
-## 🎯 Goals
 
-- [ ] Build my first complete backend API from scratch
-- [ ] Contribute to an open source project
-- [ ] Learn C# and create a real-world application
-- [ ] Understand how systems work under the hood (OS, networking, memory)
-- [ ] Land my first developer role or internship
 
----
+
 
 
 
