@@ -43,8 +43,7 @@ I'm really into backend systems — APIs, servers, databases, how everything con
 ✅ HTML & CSS — Done  
 ✅ Linux basics — Done  
 🔄 n8n automation — In progress  
-⏳ C# — Next up  
-⏳ C++ — Next up  
+⏳ Backend Language — Next up  
 ⏳ REST APIs — Planned  
 ⏳ Databases (SQL) — Planned  
 ⏳ Docker — Planned
