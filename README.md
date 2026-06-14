@@ -40,14 +40,14 @@ I'm really into backend systems — APIs, servers, databases, how everything con
 
 ## 🚀 Learning Roadmap
 
-✅ HTML & CSS          — Done
-✅ Linux basics        — Done
-🔄 n8n automation      — In progress
-⏳ C#                  — Next up
-⏳ C++                 — Next up
-⏳ REST APIs           — Planned
-⏳ Databases (SQL)     — Planned
-⏳ Docker              — Planned
+✅ HTML & CSS — Done  
+✅ Linux basics — Done  
+🔄 n8n automation — In progress  
+⏳ C# — Next up  
+⏳ C++ — Next up  
+⏳ REST APIs — Planned  
+⏳ Databases (SQL) — Planned  
+⏳ Docker — Planned
 
 ---
 
@@ -71,4 +71,5 @@ I'm really into backend systems — APIs, servers, databases, how everything con
 ⭐ If you find any of my projects useful, feel free to leave a star!
 
 </div>
+
 
