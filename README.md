@@ -1,6 +1,7 @@
 <div align="center">
 
 <img src="https://i.imgur.com/scMOrS6.gif" width="140" alt="cat typing gif"/>
+![Header](./github-header-banner.png)
 
 # Hey there, I'm Gustavo 👋
 
