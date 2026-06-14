@@ -80,20 +80,8 @@ Things I'm currently studying or planning to tackle next:
 ---
 
 
-<!-- Pacman snake eating contributions -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
-  <img alt="pacman contribution snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
-</picture>
-
-</div>
 
 
-
-4. Run the workflow manually once, and the snake will appear! 🐍
-
-</details>
 
 ---
 
