@@ -6,7 +6,6 @@
 
 **15 y/o developer from Brazil 🇧🇷 | Aspiring Backend Engineer**
 
-*Building the foundations today to architect the systems of tomorrow.*
 
 <br/>
 
