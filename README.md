@@ -75,7 +75,7 @@ Things I'm currently studying or planning to tackle next:
 - 🐧 **Linux & open source** — I believe in the power of open ecosystems
 - 🤖 **Automation** — Making repetitive tasks disappear with n8n and scripts
 - 🔐 **Cybersecurity** — Understanding how to build systems that are safe
-- 🧠 **Low-level programming** — Curious about how computers really work (C/C++)
+
 
 ---
 
