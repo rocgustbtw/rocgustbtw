@@ -44,29 +44,7 @@ I'm really into backend systems — APIs, servers, databases, how everything con
 
 ---
 
-## 🧑‍💻 About Me
 
-- 🎓 High school student with a serious passion for technology
-- 🔧 Currently diving deep into **Backend Development**
-- 🐧 Linux enthusiast — the terminal is my comfort zone
-- 🤖 Experimenting with automation workflows using **n8n**
-- 📚 Always learning something new, every single day
-- 🌎 Based in **Brazil** | Intermediate English speaker
-
----
-
-## 🛠️ Current Skills
-
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-</div>
 
 ---
 
@@ -112,7 +90,8 @@ I'm really into backend systems — APIs, servers, databases, how everything con
 
 <div align="center">
 
-<img src="https://i.imgur.com/dBaSKWF.gif" width="160" alt="hacker gif"/>
+<img src="<img width="2448" height="3264" alt="image" src="https://github.com/user-attachments/assets/f3e7e1fc-a324-4203-96a4-6e714309ee29" />
+<img src="" width="160" alt="hacker gif"/>
 
 *"The expert in anything was once a beginner."*
 
