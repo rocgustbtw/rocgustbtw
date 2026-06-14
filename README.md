@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/rocgustbtw/rocgustbtw/blob/main/7b871cee4ff324b9cc17ea028b4074ce.jpg?raw=true" width="60%">
+<img src="https://github.com/rocgustbtw/rocgustbtw/blob/main/7b871cee4ff324b9cc17ea028b4074ce.jpg?raw=true" width="70%">
 
 
 
