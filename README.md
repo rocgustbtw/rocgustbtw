@@ -4,7 +4,6 @@
 
 
 
-*Building the foundations today to architect the systems of tomorrow.*
 
 <br/>
 
