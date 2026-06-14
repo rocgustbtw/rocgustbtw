@@ -90,8 +90,8 @@ I'm really into backend systems — APIs, servers, databases, how everything con
 
 <div align="center">
 
-<img src="<img width="2448" height="3264" alt="image" src="https://github.com/user-attachments/assets/f3e7e1fc-a324-4203-96a4-6e714309ee29" />
-<img src="" width="160" alt="hacker gif"/>
+<img src=""https://github.com/user-attachments/assets/f3e7e1fc-a324-4203-96a4-6e714309ee29" />
+<img src="" width="160" alt=""/>
 
 *"The expert in anything was once a beginner."*
 
