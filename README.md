@@ -1,14 +1,8 @@
 <div align="center">
 
-
-
-
 # Hey there, I'm Gustavo 👋
 
 **15 y/o developer from Brazil 🇧🇷 | Aspiring Backend Engineer**
-
-
-
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=Backend+Developer+in+Training+%F0%9F%9A%80;Linux+Enthusiast+%F0%9F%90%A7;Automation+Nerd+%F0%9F%A4%96;Always+Learning%2C+Never+Stopping+%F0%9F%93%9A)](https://git.io/typing-svg)
 
@@ -44,13 +38,7 @@ I'm really into backend systems — APIs, servers, databases, how everything con
 
 ---
 
-
-
----
-
 ## 🚀 Learning Roadmap
-
-...
 
 ✅ HTML & CSS          — Done
 ✅ Linux basics        — Done
@@ -60,15 +48,6 @@ I'm really into backend systems — APIs, servers, databases, how everything con
 ⏳ REST APIs           — Planned
 ⏳ Databases (SQL)     — Planned
 ⏳ Docker              — Planned
-```
-
-
-
-
-
-
-
-
 
 ---
 
@@ -85,12 +64,11 @@ I'm really into backend systems — APIs, servers, databases, how everything con
 
 <div align="center">
 
-"<img width="160" height="160" alt="image" src="https://github.com/user-attachments/assets/f3e7e1fc-a324-4203-96a4-6e714309ee29" />
-
-
+<img width="160" height="160" alt="image" src="https://github.com/user-attachments/assets/f3e7e1fc-a324-4203-96a4-6e714309ee29" />
 
 *"The expert in anything was once a beginner."*
 
 ⭐ If you find any of my projects useful, feel free to leave a star!
 
 </div>
+
