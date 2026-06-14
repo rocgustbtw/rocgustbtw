@@ -1,11 +1,8 @@
 <div align="center">
 
-<img src="https://i.imgur.com/scMOrS6.gif" width="140" alt="cat typing gif"/>
 <img src="./github-header-banner.png"/>
 
-# Hey there, I'm Gustavo 👋
 
-**15 y/o developer from Brazil 🇧🇷 | Aspiring Backend Engineer**
 
 *Building the foundations today to architect the systems of tomorrow.*
 
