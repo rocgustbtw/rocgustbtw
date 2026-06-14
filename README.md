@@ -79,20 +79,6 @@ Things I'm currently studying or planning to tackle next:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Gustavo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
-
-<br/>
-
-<!-- Pacman GitHub activity graph -->
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true)
-
-<br/>
 
 <!-- Pacman snake eating contributions -->
 <picture>
@@ -103,40 +89,7 @@ Things I'm currently studying or planning to tackle next:
 
 </div>
 
-> 💬 *Replace `YOUR_USERNAME` with your GitHub username above. To activate the Pacman snake, check the setup instructions below!*
 
-<details>
-<summary>⚙️ How to activate the Pacman snake animation</summary>
-
-1. In your profile repo (`YOUR_USERNAME/YOUR_USERNAME`), go to **Settings → Actions → General**
-2. Enable **"Allow all actions and reusable workflows"**
-3. Create the file `.github/workflows/snake.yml` with this content:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
 
 4. Run the workflow manually once, and the snake will appear! 🐍
 
