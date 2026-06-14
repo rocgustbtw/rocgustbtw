@@ -7,14 +7,7 @@
 **15 y/o developer from Brazil 🇧🇷 | Aspiring Backend Engineer**
 
 
-<br/>
 
-   
-
-
-
-
-<br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=Backend+Developer+in+Training+%F0%9F%9A%80;Linux+Enthusiast+%F0%9F%90%A7;Automation+Nerd+%F0%9F%A4%96;Always+Learning%2C+Never+Stopping+%F0%9F%93%9A)](https://git.io/typing-svg)
 
